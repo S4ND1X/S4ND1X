@@ -8,7 +8,8 @@
 - ⚡ Fun fact: I love to compete on Speedcubing tournaments.
 #
 📫 Reach me at my [personal page](https://george-dev.netlify.app/) 
-📸Chek out my [365 Days of Code](https://www.instagram.com/_365daysofcoding_/?hl=es-la) 
+
+📸Chekc out my [365 Days of Code](https://www.instagram.com/_365daysofcoding_/?hl=es-la) 
 
 🎨 Check out full animation [here](https://s4nd1x-readme-animation.netlify.app/) 
 
