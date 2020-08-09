@@ -1,6 +1,7 @@
 # #Hello Everyone 👋
 
-[Animated](https://media.giphy.com/media/d82tpwLsN0EZWBpx3n/giphy.gif)
+<img src="https://media.giphy.com/media/d82tpwLsN0EZWBpx3n/giphy.gif" width=720 />
+
 <!--
 **S4ND1X/S4ND1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
