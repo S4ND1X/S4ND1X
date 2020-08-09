@@ -1,8 +1,6 @@
 # #Hello Everyone 👋
 
-
-
-[![ezgif.com-resize781af55d8b335064.gif](https://s7.gifyu.com/images/ezgif.com-resize781af55d8b335064.gif)](https://gifyu.com/image/cpAX)
+[![ezgif.com-resize781af55d8b335064.md.gif](https://s7.gifyu.com/images/ezgif.com-resize781af55d8b335064.md.gif)](https://gifyu.com/image/cpAX)
 <!--
 **S4ND1X/S4ND1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
