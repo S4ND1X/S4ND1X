@@ -13,7 +13,7 @@
 
 📽️Youtube Channel [Dev George](https://www.youtube.com/channel/UCD_B4-slyYz-qYK7BI6R4oA)
 
-👨‍💻Algorithm Club Co-founder[Club de Algoritmia GDA](https://github.com/Club-de-Algoritmia-GDA)
+👨‍💻Algorithm Club Co-founder [Club de Algoritmia GDA](https://github.com/Club-de-Algoritmia-GDA)
 
 🎨 Check out full animation [here](https://s4nd1x-readme-animation.netlify.app/). 
 
