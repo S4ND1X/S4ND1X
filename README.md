@@ -19,8 +19,6 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://george-dev.netlify.app/#contact).
 
-![S4ND1X github stats](https://github-readme-stats.vercel.app/api?username=S4ND1X&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ND1X&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/S4ND1X">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S4ND1X&show_icons=true&theme=tokyonight" />
 </a>
