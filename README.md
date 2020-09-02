@@ -26,8 +26,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4ND1X&theme=tokyonight" />
 </a>
 
-<img align="center" src="(http://ForTheBadge.com/images/badges/built-with-swag.svg" />
 <img align="center" src="https://forthebadge.com/images/badges/certified-yourboyserge.svg" />
-<img align="center" src="https://forthebadge.com/images/badges/powered-by-electricity.svg" />
-<img align="center" src="https://forthebadge.com/images/badges/made-with-crayons.svg" />
-<img align="center" src="https://forthebadge.com/images/badges/uses-badges.svg" />
+<img src="https://forthebadge.com/images/badges/made-with-crayons.svg" />
