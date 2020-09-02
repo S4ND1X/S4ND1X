@@ -19,7 +19,8 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://george-dev.netlify.app/#contact).
 
-![S4ND1X github stats](https://github-readme-stats.vercel.app/api?username=S4ND1X&show_icons=true&theme=tokyonight)
+![S4ND1X github stats](https://github-readme-stats.vercel.app/api?username=S4ND1X&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ND1X&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/S4ND1X/) ![forthebadge](https://forthebadge.com/images/badges/certified-yourboyserge.svg) ![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)
