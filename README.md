@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Backend development
 - ⚡ Fun fact: I love to compete on Speedcubing tournaments.
 #
-📫 Reach me at my [personal page](https://george-dev.netlify.app/). 
+📫 Reach me at my [personal page](https://george-dev.me/). 
 
 📸Check out my [365 Days of Code](https://www.instagram.com/_365daysofcoding_/?hl=es-la). 
 
