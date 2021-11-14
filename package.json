@@ -1,0 +1,23 @@
+{
+  "name": "s4nd1x",
+  "version": "1.0.0",
+  "description": "dynamic readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S4ND1X/S4ND1X.git"
+  },
+  "author": "S4ND1X",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S4ND1X/S4ND1X/issues"
+  },
+  "homepage": "https://github.com/S4ND1X/S4ND1X#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0"
+  }
+}
