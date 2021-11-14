@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>A hunted man sometimes wearies of distrust and longs for friendship.</p>
+<p>The burned hand teaches best. After that advice about fire goes to the heart.</p>
 
-<p>- Aragorn</p>
+<p>- Gandalf</p>
 
 
 Check back at the top of the hour for a new quote!
