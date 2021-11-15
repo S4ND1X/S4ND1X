@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>He that breaks a thing to find out what it is, has left the path of wisdom.</p>
+<p>It is a strange fate that we should suffer so much fear and doubt over so small a thing… such a little thing.</p>
 
-<p>- Gandalf</p>
+<p>- Boromir</p>
 
 
 Check back at the top of the hour for a new quote!
