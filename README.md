@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Memory is not what the heart desires. That is only a mirror.</p>
+<p>Even the smallest person can change the course of history.</p>
 
-<p>- Gimli</p>
+<p>- Lady Galadriel</p>
 
 
 Check back at the top of the hour for a new quote!
