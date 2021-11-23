@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Deeds will not be less valiant because they are unpraised.</p>
+<p>A hunted man sometimes wearies of distrust and longs for friendship.</p>
 
 <p>- Aragorn</p>
 
