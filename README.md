@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Torment in the dark was the danger that I feared, and it did not hold me back.</p>
+<p>Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be eager to deal out death in judgement. For even the very wise cannot see all ends.</p>
 
-<p>- Gimli</p>
+<p>- Gandalf</p>
 
 
 Check back at the top of the hour for a new quote!
