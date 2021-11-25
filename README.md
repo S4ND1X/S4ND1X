@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>The burned hand teaches best. After that advice about fire goes to the heart.</p>
+<p>He that breaks a thing to find out what it is, has left the path of wisdom.</p>
 
 <p>- Gandalf</p>
 
