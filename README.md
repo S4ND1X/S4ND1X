@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>He that breaks a thing to find out what it is, has left the path of wisdom.</p>
+<p>It is not our part to master all the tides of the world, but to do what is in us for the succor of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.</p>
 
 <p>- Gandalf</p>
 
