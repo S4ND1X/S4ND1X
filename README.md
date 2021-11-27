@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is useless to meet revenge with revenge: it will heal nothing.</p>
+<p>It is a strange fate that we should suffer so much fear and doubt over so small a thing… such a little thing.</p>
 
-<p>- Frodo Baggins</p>
+<p>- Boromir</p>
 
 
 Check back at the top of the hour for a new quote!
