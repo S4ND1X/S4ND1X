@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Many are the strange chances of the world, and help oft shall come from the hands of the weak when the wise falter.</p>
+<p>There’s some good in this world, Mr. Frodo… and it’s worth fighting for.</p>
 
-<p>- Gandalf</p>
+<p>- Sam Gamgee</p>
 
 
 Check back at the top of the hour for a new quote!
