@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It’s the job that’s never started as takes longest to finish.</p>
+<p>A hunted man sometimes wearies of distrust and longs for friendship.</p>
 
-<p>- Sam Gamgee</p>
+<p>- Aragorn</p>
 
 
 Check back at the top of the hour for a new quote!
