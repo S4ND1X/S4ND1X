@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Who knows? Have patience. Go where you must go, and hope!</p>
+<p>It is useless to meet revenge with revenge: it will heal nothing.</p>
 
-<p>- Gandalf</p>
+<p>- Frodo Baggins</p>
 
 
 Check back at the top of the hour for a new quote!
