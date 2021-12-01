@@ -2,7 +2,7 @@
 
 <!-- Readme Banner-->
 
-[![Jorge's GitHub Banner](.assets/banner.png)](https://george-dev.netlify.app/)
+[![Jorge's GitHub Banner](.assets/banner.png)](https://georgedev.tech/)
 
 <!-- Social media badges -->
 
