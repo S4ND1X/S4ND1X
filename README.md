@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Who knows? Have patience. Go where you must go, and hope!</p>
+<p>He that breaks a thing to find out what it is, has left the path of wisdom.</p>
 
 <p>- Gandalf</p>
 
