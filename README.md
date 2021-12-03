@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Deeds will not be less valiant because they are unpraised.</p>
+<p>Even the smallest person can change the course of history.</p>
 
-<p>- Aragorn</p>
+<p>- Lady Galadriel</p>
 
 
 Check back at the top of the hour for a new quote!
