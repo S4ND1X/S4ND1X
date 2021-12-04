@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Maybe the paths that you each shall tread are already laid before your feet, though you do not see them.</p>
+<p>It is not our part to master all the tides of the world, but to do what is in us for the succor of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.</p>
 
-<p>- Lady Galadriel</p>
+<p>- Gandalf</p>
 
 
 Check back at the top of the hour for a new quote!
