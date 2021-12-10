@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.</p>
+<p>It is a strange fate that we should suffer so much fear and doubt over so small a thing… such a little thing.</p>
 
-<p>- Elrond</p>
+<p>- Boromir</p>
 
 
 Check back at the top of the hour for a new quote!
