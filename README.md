@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>He that breaks a thing to find out what it is, has left the path of wisdom.</p>
+<p>Even the smallest person can change the course of history.</p>
 
-<p>- Gandalf</p>
+<p>- Lady Galadriel</p>
 
 
 Check back at the top of the hour for a new quote!
