@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is not despair, for despair is only for those who see the end beyond all doubt. We do not!</p>
+<p>It’s the job that’s never started as takes longest to finish.</p>
 
-<p>- Gandalf</p>
+<p>- Sam Gamgee</p>
 
 
 Check back at the top of the hour for a new quote!
