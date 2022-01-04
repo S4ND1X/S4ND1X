@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Torment in the dark was the danger that I feared, and it did not hold me back.</p>
+<p>Deeds will not be less valiant because they are unpraised.</p>
 
-<p>- Gimli</p>
+<p>- Aragorn</p>
 
 
 Check back at the top of the hour for a new quote!
