@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It’s the job that’s never started as takes longest to finish.</p>
+<p>There’s some good in this world, Mr. Frodo… and it’s worth fighting for.</p>
 
 <p>- Sam Gamgee</p>
 
