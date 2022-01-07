@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is a strange fate that we should suffer so much fear and doubt over so small a thing… such a little thing.</p>
+<p>There’s some good in this world, Mr. Frodo… and it’s worth fighting for.</p>
 
-<p>- Boromir</p>
+<p>- Sam Gamgee</p>
 
 
 Check back at the top of the hour for a new quote!
