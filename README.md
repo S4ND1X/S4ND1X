@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Deeds will not be less valiant because they are unpraised.</p>
+<p>It’s the job that’s never started as takes longest to finish.</p>
 
-<p>- Aragorn</p>
+<p>- Sam Gamgee</p>
 
 
 Check back at the top of the hour for a new quote!
