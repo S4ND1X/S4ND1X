@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It’s the job that’s never started as takes longest to finish.</p>
+<p>Torment in the dark was the danger that I feared, and it did not hold me back.</p>
 
-<p>- Sam Gamgee</p>
+<p>- Gimli</p>
 
 
 Check back at the top of the hour for a new quote!
