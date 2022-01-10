@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is not the strength of the body, but the strength of the spirit.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Gimli</p>
 
 
 Check back at the top of the hour for a new quote!
