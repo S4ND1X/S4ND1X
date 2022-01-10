@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>There’s some good in this world, Mr. Frodo… and it’s worth fighting for.</p>
 
-<p>- Gimli</p>
+<p>- Sam Gamgee</p>
 
 
 Check back at the top of the hour for a new quote!
