@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Even the smallest person can change the course of history.</p>
+<p>The burned hand teaches best. After that advice about fire goes to the heart.</p>
 
-<p>- Lady Galadriel</p>
+<p>- Gandalf</p>
 
 
 Check back at the top of the hour for a new quote!
