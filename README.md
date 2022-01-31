@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be eager to deal out death in judgement. For even the very wise cannot see all ends.</p>
+<p>It is not the strength of the body, but the strength of the spirit.</p>
 
-<p>- Gandalf</p>
+<p>- J.R.R. Tolkien</p>
 
 
 Check back at the top of the hour for a new quote!
