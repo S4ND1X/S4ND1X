@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>The burned hand teaches best. After that advice about fire goes to the heart.</p>
+<p>It is not the strength of the body, but the strength of the spirit.</p>
 
-<p>- Gandalf</p>
+<p>- J.R.R. Tolkien</p>
 
 
 Check back at the top of the hour for a new quote!
