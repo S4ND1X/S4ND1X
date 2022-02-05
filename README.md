@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>But in the end it’s only a passing thing, this shadow; even darkness must pass.</p>
+<p>Many are the strange chances of the world, and help oft shall come from the hands of the weak when the wise falter.</p>
 
-<p>- Sam Gamgee</p>
+<p>- Gandalf</p>
 
 
 Check back at the top of the hour for a new quote!
