@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is not despair, for despair is only for those who see the end beyond all doubt. We do not!</p>
+<p>Maybe the paths that you each shall tread are already laid before your feet, though you do not see them.</p>
 
-<p>- Gandalf</p>
+<p>- Lady Galadriel</p>
 
 
 Check back at the top of the hour for a new quote!
