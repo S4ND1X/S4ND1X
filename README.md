@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Many are the strange chances of the world, and help oft shall come from the hands of the weak when the wise falter.</p>
+<p>Deeds will not be less valiant because they are unpraised.</p>
 
-<p>- Gandalf</p>
+<p>- Aragorn</p>
 
 
 Check back at the top of the hour for a new quote!
