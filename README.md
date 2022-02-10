@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Even the smallest person can change the course of history.</p>
+<p>But in the end it’s only a passing thing, this shadow; even darkness must pass.</p>
 
-<p>- Lady Galadriel</p>
+<p>- Sam Gamgee</p>
 
 
 Check back at the top of the hour for a new quote!
