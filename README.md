@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be eager to deal out death in judgement. For even the very wise cannot see all ends.</p>
+<p>It is a strange fate that we should suffer so much fear and doubt over so small a thing… such a little thing.</p>
 
-<p>- Gandalf</p>
+<p>- Boromir</p>
 
 
 Check back at the top of the hour for a new quote!
