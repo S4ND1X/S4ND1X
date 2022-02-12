@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>He that breaks a thing to find out what it is, has left the path of wisdom.</p>
+<p>Torment in the dark was the danger that I feared, and it did not hold me back.</p>
 
-<p>- Gandalf</p>
+<p>- Gimli</p>
 
 
 Check back at the top of the hour for a new quote!
