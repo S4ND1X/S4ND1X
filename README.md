@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>The burned hand teaches best. After that advice about fire goes to the heart.</p>
+<p>Maybe the paths that you each shall tread are already laid before your feet, though you do not see them.</p>
 
-<p>- Gandalf</p>
+<p>- Lady Galadriel</p>
 
 
 Check back at the top of the hour for a new quote!
