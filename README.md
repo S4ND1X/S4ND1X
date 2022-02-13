@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Even the smallest person can change the course of history.</p>
+<p>Maybe the paths that you each shall tread are already laid before your feet, though you do not see them.</p>
 
 <p>- Lady Galadriel</p>
 
