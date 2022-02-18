@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Even the smallest person can change the course of history.</p>
+<p>It is not the strength of the body, but the strength of the spirit.</p>
 
-<p>- Lady Galadriel</p>
+<p>- J.R.R. Tolkien</p>
 
 
 Check back at the top of the hour for a new quote!
