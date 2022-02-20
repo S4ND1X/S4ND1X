@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Torment in the dark was the danger that I feared, and it did not hold me back.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
 <p>- Gimli</p>
 
