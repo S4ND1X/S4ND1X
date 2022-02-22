@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Deeds will not be less valiant because they are unpraised.</p>
+<p>Who knows? Have patience. Go where you must go, and hope!</p>
 
-<p>- Aragorn</p>
+<p>- Gandalf</p>
 
 
 Check back at the top of the hour for a new quote!
