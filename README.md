@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Torment in the dark was the danger that I feared, and it did not hold me back.</p>
+<p>It is a strange fate that we should suffer so much fear and doubt over so small a thing… such a little thing.</p>
 
-<p>- Gimli</p>
+<p>- Boromir</p>
 
 
 Check back at the top of the hour for a new quote!
