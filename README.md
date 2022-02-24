@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is not the strength of the body, but the strength of the spirit.</p>
+<p>Deeds will not be less valiant because they are unpraised.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Aragorn</p>
 
 
 Check back at the top of the hour for a new quote!
