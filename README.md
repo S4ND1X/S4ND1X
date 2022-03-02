@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is not our part to master all the tides of the world, but to do what is in us for the succor of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>- Gandalf</p>
+<p>- Gimli</p>
 
 
 Check back at the top of the hour for a new quote!
