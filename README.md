@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>A hunted man sometimes wearies of distrust and longs for friendship.</p>
+<p>It is not the strength of the body, but the strength of the spirit.</p>
 
-<p>- Aragorn</p>
+<p>- J.R.R. Tolkien</p>
 
 
 Check back at the top of the hour for a new quote!
