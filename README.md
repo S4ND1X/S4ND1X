@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Maybe the paths that you each shall tread are already laid before your feet, though you do not see them.</p>
+<p>Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.</p>
 
-<p>- Lady Galadriel</p>
+<p>- Elrond</p>
 
 
 Check back at the top of the hour for a new quote!
