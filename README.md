@@ -74,9 +74,9 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>It is not despair, for despair is only for those who see the end beyond all doubt. We do not!</p>
+<p>Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.</p>
 
-<p>- Gandalf</p>
+<p>- Elrond</p>
 
 
 Check back at the top of the hour for a new quote!
