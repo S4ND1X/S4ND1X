@@ -74,7 +74,7 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 ## 🧙‍♂️ LOTR QUOTE
 <samp>
 
-<p>Memory is not what the heart desires. That is only a mirror.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
 <p>- Gimli</p>
 
