@@ -79,6 +79,4 @@ _PS: Don't forget to check out my quote of the day powered by LOTR_
 <p>{lotr_author}</p>
 
 
-Check back at the top of the hour for a new quote!
-
 </samp>
